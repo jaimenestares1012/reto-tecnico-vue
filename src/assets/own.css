@@ -1,0 +1,18 @@
+.v-dialog {
+    border-radius: 50px !important;
+}
+
+@font-face {
+    font-family: "SAMSUNGSHARPSANS-REGULAR";
+    src: url("https://ja-my-serverless-react-app-20-03-2023.s3.amazonaws.com/samsung/SAMSUNGSHARPSANS-REGULAR.TTF") format("truetype");
+}
+
+@font-face {
+    font-family: "SAMSUNGSHARPSANS-MEDIUM";
+    src: url("https://ja-my-serverless-react-app-20-03-2023.s3.amazonaws.com/samsung/SAMSUNGSHARPSANS-MEDIUM.TTF") format("truetype");
+}
+
+@font-face {
+    font-family: "SAMSUNGSHARPSANS-BOLD";
+    src: url("https://ja-my-serverless-react-app-20-03-2023.s3.amazonaws.com/samsung/SAMSUNGSHARPSANS-BOLD.TTF") format("truetype");
+}
